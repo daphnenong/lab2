@@ -13,8 +13,11 @@
    the CSS to the page. feel free to remove it once the link is working. */
 body {
      border: 1px dotted gray;
+     background: #FAFAFA;
      padding: 20px;
+
 }
+
 
 .jumbotron {
 	position: relative;
@@ -32,3 +35,7 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+p {
+     font-variant: small-caps;
+ }
